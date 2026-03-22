@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std; 
-
+// Store problem 
 int main(){
     int item_num;
     cout<<"Enter the Number of Items : ";

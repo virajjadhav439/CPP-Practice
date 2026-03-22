@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    cout<< "57" - "5";
+    string s = "test";
+    cout<< s.substr(0,4);
 
     return 0;
 }
