@@ -9,15 +9,15 @@ int main(){
         // a part 
         cout<<i<<" ";
 
-        b part
+        //b part
         
-        if (i%2==0)
-        {
-            cout<<i*-1<<" ";
-        }
-        else{
-            cout<<i<<" ";
-        }
+        // if (i%2==0)
+        // {
+        //     cout<<i*-1<<" ";
+        // }
+        // else{
+        //     cout<<i<<" ";
+        // }
     }
     
     return 0;
